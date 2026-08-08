@@ -4,7 +4,7 @@
 	ignore = dirty
 [submodule "external/freetype"]
 	path = external/freetype
-	url = https://github.com/krkrz/freetype.git
+	url = https://github.com/freetype/freetype.git
 	ignore = dirty
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
